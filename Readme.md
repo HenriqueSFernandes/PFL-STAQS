@@ -1,4 +1,7 @@
 # STAQS01 - T01
+## Grade
+
+17.8/20
 
 ## Member Contribution
 
